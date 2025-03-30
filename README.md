@@ -3,6 +3,14 @@ The Resume-Based Job Recommendation System is a web application designed to help
 
 ![image alt](https://github.com/sanjit507/Resume-Based-Job-Recommendation-System/blob/e149b997c5e1d2e0f29826f92570b6646ec5f135/Screenshot%202025-03-30%20145457.png)
 
+![image alt](https://github.com/sanjit507/Resume-Based-Job-Recommendation-System/blob/4b643b14202e36878b38869c8f6a07999f588a2f/Screenshot%202025-03-30%20145507.png)
+
+![image alt](https://github.com/sanjit507/Resume-Based-Job-Recommendation-System/blob/4b643b14202e36878b38869c8f6a07999f588a2f/Screenshot%202025-03-30%20145518.png)
+
+![image alt](https://github.com/sanjit507/Resume-Based-Job-Recommendation-System/blob/4b643b14202e36878b38869c8f6a07999f588a2f/Screenshot%202025-03-30%20145525.png)
+
+
+
 Technologies Used
 
 Backend Framework :
