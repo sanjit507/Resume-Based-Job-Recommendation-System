@@ -1,6 +1,9 @@
 Project Description
 The Resume-Based Job Recommendation System is a web application designed to help users upload their resumes and receive personalized job recommendations. It also provides visualizations such as word count, skills distribution (bar chart), and a word cloud of the resume text. The system uses advanced natural language processing (NLP) techniques to extract skills and match them with job descriptions from a dataset.
 
+
+
+
 Technologies Used
 
 Backend Framework :
